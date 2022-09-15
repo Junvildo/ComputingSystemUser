@@ -19,5 +19,7 @@ Sau đó chạy file .sh
 Ví dụ ./user_setup.sh 20KHDL 2020
 
 Các user được tạo sẽ có
-username : K<MSSV>
-password : <MSSV>
+
+username : K+MSSV
+
+password : MSSV
