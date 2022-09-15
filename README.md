@@ -17,3 +17,7 @@ Sau đó chạy file .sh
 ./user_setup.sh <Tên Nhóm> <ID Nhóm>
 ```
 Ví dụ ./user_setup.sh 20KHDL 2020
+
+Các user được tạo sẽ có
+username : K<MSSV>
+password : <MSSV>
